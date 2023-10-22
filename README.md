@@ -3,8 +3,10 @@
 Dive into the expansive realms of technology, magic, and space exploration with Neroland 1!
 
 ======
+
 This is the official repository and issue-tracker for Neroland 1
 
+<!--
 # Need Help?
 
 When reporting an issue put the version number before the issue title! Such as [FULL][1.37] My game is broken! Also include any added mods you may have put in, into the description of the issue.
@@ -19,4 +21,4 @@ When reporting an issue put the version number before the issue title! Such as [
 
 #### Modpacks:
 
-- [![Neroland 1](http://cf.way2muchnoise.eu/520914.svg "Neroland 1") Neroland 1](https://www.curseforge.com/minecraft/modpacks/neroland-1)
+- [![Neroland 1](http://cf.way2muchnoise.eu/520914.svg "Neroland 1") Neroland 1](https://www.curseforge.com/minecraft/modpacks/neroland-1) -->
