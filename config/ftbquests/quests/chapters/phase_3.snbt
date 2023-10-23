@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "phase_3"
+	group: "4737ED4AD5D19457"
+	id: "2DA8985495658242"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "675793C7B1BABCD2"
+		rewards: [{
+			auto: "invisible"
+			id: "6F6DB12C04BFA15A"
+			ignore_reward_blocking: true
+			stage: "Phase 3"
+			type: "gamestage"
+		}]
+		tasks: [
+			{
+				id: "7651C40E8D69F734"
+				stage: "Phase 2"
+				type: "gamestage"
+			}
+			{
+				id: "242D78F4965596B5"
+				title: "Test"
+				type: "checkmark"
+			}
+		]
+		x: 2.5d
+		y: -2.0d
+	}]
+	title: "Phase 3"
+}

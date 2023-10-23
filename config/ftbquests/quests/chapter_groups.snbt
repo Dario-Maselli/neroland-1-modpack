@@ -1,0 +1,13 @@
+{
+	chapter_groups: [
+		{ id: "4737ED4AD5D19457", title: "Main Quests" }
+		{ id: "5F3B7AFB50596886", title: "Mekanism" }
+		{ id: "28B4915D523BB86E", title: "Applied Energistics 2" }
+		{ id: "68FF43C36E0BEB98", title: "Ars Nouveau" }
+		{ id: "4967B891E867554A", title: "Mystical Agriculture" }
+		{ id: "1760B5E19F2A0DE3", title: "Ad Astra" }
+		{ id: "5B07A75C98CDBE7F", title: "Create" }
+		{ id: "6519587D5BF270B6", title: "Exploration" }
+		{ id: "125232D2874DB212", title: "Blood Magic" }
+	]
+}

@@ -1,0 +1,36 @@
+
+[General]
+	#Here, you can change the rate of paper consumption in the Skills Record.
+	#Range: 0.0 ~ 1.0
+	paper_consummation_rate = 0.35
+	#Here, You can change the time to validate the challenges in the mining skills card for fixing the corrupted data if present.
+	#It's formatted in seconds.
+	#Range: 1 ~ 600
+	challenge_validator = 2
+
+[Ability]
+	#This makes the ultimine max blocks value different for every tier.
+	tier_based_max_blocks = true
+	#You can change the ultimine max blocks value for each tier.
+	#Range: 1 ~ 64
+	tier_1_max_blocks = 8
+	#Range: 1 ~ 64
+	tier_2_max_blocks = 16
+	#Range: 1 ~ 64
+	tier_3_max_blocks = 32
+	#You can change the ultimine ability time per tier.
+	#It's formatted in seconds.
+	#Range: 60 ~ 3600
+	tier_1_time = 300
+	#Range: 60 ~ 3600
+	tier_2_time = 600
+	#Range: 60 ~ 3600
+	tier_3_time = 1200
+
+[Debug]
+	#Enable or disable the ChunkData logger.
+	chunk_data_logger = false
+	#Enable or disable the ChallengeManager logger.
+	challenge_manager_logger = false
+	challenge_actions_logger = false
+

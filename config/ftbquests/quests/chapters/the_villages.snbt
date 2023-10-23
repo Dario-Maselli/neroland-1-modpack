@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_villages"
+	group: "6519587D5BF270B6"
+	id: "216D2FE930341BC7"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "The Villages"
+}

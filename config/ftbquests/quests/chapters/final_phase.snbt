@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "final_phase"
+	group: "4737ED4AD5D19457"
+	id: "5450FB0E929658D5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "634BE7E9F5F3EC94"
+		rewards: [{
+			auto: "invisible"
+			id: "3CBC6343D9C3CDFF"
+			ignore_reward_blocking: true
+			stage: "Final Phase"
+			type: "gamestage"
+		}]
+		tasks: [
+			{
+				id: "3389437B3DB79B5D"
+				stage: "Phase 4"
+				type: "gamestage"
+			}
+			{
+				id: "3A50909F674148F6"
+				title: "Test"
+				type: "checkmark"
+			}
+		]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Final Phase"
+}

@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "phase_2"
+	group: "4737ED4AD5D19457"
+	id: "0D326336FE1ACCE7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "0B37B6DFD6986AB4"
+		tasks: [{
+			id: "704406A7280D32D3"
+			title: "Test 2"
+			type: "checkmark"
+		}]
+		x: -5.5d
+		y: -1.0d
+	}]
+	title: "Phase 2"
+}
