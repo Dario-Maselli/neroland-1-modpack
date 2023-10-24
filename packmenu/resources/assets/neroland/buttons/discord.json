@@ -1,0 +1,21 @@
+{
+  "x": 45,
+  "y": 150,
+  "width": 120,
+  "height": 30,
+  "langKey": "packmenu.neroland.discord",
+  "action": "OPEN_URL",
+  "data": "https://discord.gg/JxcQqtbQU6",
+  "u": 0,
+  "v": 0,
+  "hoverU": 0,
+  "hoverV": 30,
+  "texWidth": 120,
+  "texHeight": 60,
+  "texture": "neroland:textures/discord.png",
+  "fontColor": 0,
+  "hoverFontColor": 1140326,
+  "dropShadow": false,
+  "textXOffset": 5,
+  "textYOffset": -6
+}
